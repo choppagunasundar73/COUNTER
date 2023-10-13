@@ -1,1 +1,2 @@
-# COUNTER
+COUNTER
+(TO INcrement AND DEcrement)
